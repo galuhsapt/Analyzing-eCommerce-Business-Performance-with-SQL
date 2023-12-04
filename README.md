@@ -6,6 +6,9 @@ Measuring business performance is crucial in a company to track, monitor, and as
 
 ## Data Preparation
 **![](https://lh7-us.googleusercontent.com/IA02IGt5qhRCYTZ0fIs5X3dZQlbS4YBdw5puNbwJ3TO9MD-YzdSL0nMnz0ywCMC_mmkvar5sZ2FMsGfXkgx5uD-7Xbruwgi0Vb_mOLDQ0G_JSFy6fPY51w3SRQEZXUZR-UZ1hF0m4RORmhpb6p1ThUeLcA=s2048)**
+
+*The geolocation file is too large, so I did not upload it here.*
+
 1. **Database Creation**
 
    Database creation is performed using tools from pgAdmin 4 by creating a new database.
